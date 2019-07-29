@@ -1,0 +1,8 @@
+class sample
+{
+@Test
+public void demo()
+{
+System.out.println("new java")
+
+
