@@ -1,0 +1,8 @@
+class DemoC
+{
+@Test
+public void sample()
+{
+system.out.println("hello");
+}
+}
